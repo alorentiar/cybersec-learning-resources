@@ -10,3 +10,4 @@ Keamanan aplikasi web: kerentanan umum, teknik eksploitasi, dan cara mitigasinya
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) — A comprehensive collection of OWASP application security cheat sheets covering secure design, authentication, input validation, and defensive coding practices. _(26 Sep 2026)_
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) — Official OWASP intentionally vulnerable web application for learning and practicing modern web security skills. _(28 Sep 2026)_
 - [MDN Web Security](https://developer.mozilla.org/en-US/docs/Web/Security) — Mozilla's documentation hub for web security concepts, browser protections, and secure development practices. _(30 Sep 2026)_
+- [OWASP WebGoat](https://owasp.org/www-project-webgoat/) — Hands-on, deliberately vulnerable Java web application for learning web security lessons and common vulnerabilities. _(04 Oct 2026)_
