@@ -11,3 +11,4 @@ Keamanan aplikasi web: kerentanan umum, teknik eksploitasi, dan cara mitigasinya
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) — Official OWASP intentionally vulnerable web application for learning and practicing modern web security skills. _(28 Sep 2026)_
 - [MDN Web Security](https://developer.mozilla.org/en-US/docs/Web/Security) — Mozilla's documentation hub for web security concepts, browser protections, and secure development practices. _(30 Sep 2026)_
 - [OWASP WebGoat](https://owasp.org/www-project-webgoat/) — Hands-on, deliberately vulnerable Java web application for learning web security lessons and common vulnerabilities. _(04 Oct 2026)_
+- [OWASP API Security Top 10](https://owasp.org/API-Security/editions/2023/en/0x11-t10/) — Official OWASP guidance on the most critical API security risks and mitigation strategies. _(10 Oct 2026)_
