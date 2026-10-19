@@ -12,3 +12,4 @@ Keamanan aplikasi web: kerentanan umum, teknik eksploitasi, dan cara mitigasinya
 - [MDN Web Security](https://developer.mozilla.org/en-US/docs/Web/Security) — Mozilla's documentation hub for web security concepts, browser protections, and secure development practices. _(30 Sep 2026)_
 - [OWASP WebGoat](https://owasp.org/www-project-webgoat/) — Hands-on, deliberately vulnerable Java web application for learning web security lessons and common vulnerabilities. _(04 Oct 2026)_
 - [OWASP API Security Top 10](https://owasp.org/API-Security/editions/2023/en/0x11-t10/) — Official OWASP guidance on the most critical API security risks and mitigation strategies. _(10 Oct 2026)_
+- [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) — Official OWASP Application Security Verification Standard for defining and assessing web application security requirements. _(19 Oct 2026)_
