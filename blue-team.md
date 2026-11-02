@@ -8,3 +8,4 @@ Pertahanan: SIEM, detection engineering, threat hunting, dan operasi SOC.
 - [MITRE D3FEND](https://d3fend.mitre.org/) — MITRE D3FEND catalogs defensive cybersecurity countermeasures mapped to ATT&CK techniques for threat-informed defense. _(03 Oct 2026)_
 - [NIST SP 800-92 Guide to Computer Security Log Management](https://csrc.nist.gov/pubs/sp/800/92/final) — NIST guidance on generating, storing, and analyzing security logs for effective monitoring and incident response. _(18 Oct 2026)_
 - [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) — CISA's catalog of exploited vulnerabilities helps defenders prioritize patching and reduce exposure to active threats. _(22 Oct 2026)_
+- [NIST SP 800-40 Rev. 4: Guide to Enterprise Patch Management Planning](https://csrc.nist.gov/pubs/sp/800/40/r4/final) — NIST guidance for planning and implementing enterprise patch management to reduce exploitation risk. _(02 Nov 2026)_
