@@ -14,3 +14,4 @@ Keamanan aplikasi web: kerentanan umum, teknik eksploitasi, dan cara mitigasinya
 - [OWASP API Security Top 10](https://owasp.org/API-Security/editions/2023/en/0x11-t10/) — Official OWASP guidance on the most critical API security risks and mitigation strategies. _(10 Oct 2026)_
 - [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) — Official OWASP Application Security Verification Standard for defining and assessing web application security requirements. _(19 Oct 2026)_
 - [OWASP Secure Headers Project](https://owasp.org/www-project-secure-headers/) — Guidance for implementing HTTP security headers to reduce common web application risks. _(30 Oct 2026)_
+- [OWASP Mobile Top 10](https://owasp.org/www-project-mobile-top-10/) — OWASP's official list of the most critical mobile application security risks and guidance for mitigating them. _(06 Nov 2026)_
