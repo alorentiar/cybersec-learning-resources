@@ -9,3 +9,4 @@ Pengujian penetrasi, pengembangan eksploit, Active Directory, dan command and co
 - [GTFOBins](https://gtfobins.github.io/) — Curated Unix binaries that can be abused for privilege escalation and bypassing local security restrictions. _(17 Oct 2026)_
 - [Exploit Database](https://www.exploit-db.com/) — Public archive of exploits and vulnerable software for penetration testing and security research. _(23 Oct 2026)_
 - [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) — A comprehensive collection of payloads and bypass techniques for web application security testing and penetration testing. _(05 Nov 2026)_
+- [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/) — Free OffSec guide covering Metasploit Framework fundamentals, exploitation workflows, and post-exploitation techniques for penetration testing. _(07 Nov 2026)_
