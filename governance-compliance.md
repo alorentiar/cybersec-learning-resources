@@ -10,3 +10,4 @@ Tata kelola, manajemen risiko, standar (ISO 27001, NIST), dan regulasi.
 - [NIST SP 800-37 Rev. 2](https://csrc.nist.gov/pubs/sp/800/37/r2/final) — Official NIST guidance for applying the Risk Management Framework to information systems and organizations. _(26 Oct 2026)_
 - [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks) — Official CIS security configuration benchmarks for hardening systems and improving compliance. _(27 Oct 2026)_
 - [NCSC 10 Steps to Cyber Security](https://www.ncsc.gov.uk/collection/10-steps) — Official NCSC guidance outlining ten essential steps for improving organisational cyber security and risk management. _(01 Nov 2026)_
+- [Australian Information Security Manual](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/ism) — The Australian Cyber Security Centre's Information Security Manual provides practical cyber security guidance for government and industry. _(09 Nov 2026)_
