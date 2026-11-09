@@ -9,3 +9,4 @@ Pertahanan: SIEM, detection engineering, threat hunting, dan operasi SOC.
 - [NIST SP 800-92 Guide to Computer Security Log Management](https://csrc.nist.gov/pubs/sp/800/92/final) — NIST guidance on generating, storing, and analyzing security logs for effective monitoring and incident response. _(18 Oct 2026)_
 - [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) — CISA's catalog of exploited vulnerabilities helps defenders prioritize patching and reduce exposure to active threats. _(22 Oct 2026)_
 - [NIST SP 800-40 Rev. 4: Guide to Enterprise Patch Management Planning](https://csrc.nist.gov/pubs/sp/800/40/r4/final) — NIST guidance for planning and implementing enterprise patch management to reduce exploitation risk. _(02 Nov 2026)_
+- [MITRE CWE](https://cwe.mitre.org/) — Community-developed catalog of software and hardware weakness types used for secure coding and vulnerability management. _(10 Nov 2026)_
