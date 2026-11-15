@@ -10,3 +10,4 @@ Pertahanan: SIEM, detection engineering, threat hunting, dan operasi SOC.
 - [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) — CISA's catalog of exploited vulnerabilities helps defenders prioritize patching and reduce exposure to active threats. _(22 Oct 2026)_
 - [NIST SP 800-40 Rev. 4: Guide to Enterprise Patch Management Planning](https://csrc.nist.gov/pubs/sp/800/40/r4/final) — NIST guidance for planning and implementing enterprise patch management to reduce exploitation risk. _(02 Nov 2026)_
 - [MITRE CWE](https://cwe.mitre.org/) — Community-developed catalog of software and hardware weakness types used for secure coding and vulnerability management. _(10 Nov 2026)_
+- [SigmaHQ Sigma Rules](https://github.com/SigmaHQ/sigma) — A community repository of generic detection rules for SIEM systems, supporting threat detection and blue-team operations. _(16 Nov 2026)_
