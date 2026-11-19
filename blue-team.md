@@ -11,3 +11,4 @@ Pertahanan: SIEM, detection engineering, threat hunting, dan operasi SOC.
 - [NIST SP 800-40 Rev. 4: Guide to Enterprise Patch Management Planning](https://csrc.nist.gov/pubs/sp/800/40/r4/final) — NIST guidance for planning and implementing enterprise patch management to reduce exploitation risk. _(02 Nov 2026)_
 - [MITRE CWE](https://cwe.mitre.org/) — Community-developed catalog of software and hardware weakness types used for secure coding and vulnerability management. _(10 Nov 2026)_
 - [SigmaHQ Sigma Rules](https://github.com/SigmaHQ/sigma) — A community repository of generic detection rules for SIEM systems, supporting threat detection and blue-team operations. _(16 Nov 2026)_
+- [CISA Cybersecurity Best Practices](https://www.cisa.gov/topics/cybersecurity-best-practices) — Official CISA guidance with practical cybersecurity best practices to help organizations reduce risk and improve resilience. _(20 Nov 2026)_
