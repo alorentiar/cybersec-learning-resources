@@ -14,3 +14,4 @@ Tata kelola, manajemen risiko, standar (ISO 27001, NIST), dan regulasi.
 - [CVSS v3.1 Specification](https://www.first.org/cvss/v3.1/specification-document) — Official CVSS v3.1 specification for consistent vulnerability severity scoring and risk communication. _(11 Nov 2026)_
 - [CIS Critical Security Controls](https://www.cisecurity.org/controls) — Official prioritized safeguards from Center for Internet Security for strengthening organizational cybersecurity. _(12 Nov 2026)_
 - [NIST SP 800-137](https://csrc.nist.gov/pubs/sp/800/137/final) — Official NIST guidance on information security continuous monitoring for federal systems and organizations. _(23 Nov 2026)_
+- [Essential Eight](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/essential-eight) — Australian Cyber Security Centre guidance for prioritising mitigation strategies to protect systems. _(25 Nov 2026)_
