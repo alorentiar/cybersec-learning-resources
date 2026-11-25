@@ -10,3 +10,4 @@ Perkakas wajib, platform latihan, lab praktik, dan kompetisi CTF.
 - [OWASP ZAP](https://owasp.org/www-project-zap/) — Open-source web application security scanner and proxy for finding vulnerabilities during development and testing. _(08 Nov 2026)_
 - [SecLists](https://github.com/danielmiessler/SecLists) — Well-known collection of security wordlists and payloads used in penetration testing and hands-on labs. _(13 Nov 2026)_
 - [OWASP Dependency-Check](https://owasp.org/www-project-dependency-check/) — Official OWASP project for identifying known vulnerable dependencies in software projects. _(24 Nov 2026)_
+- [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/) — Open-source threat modeling tool for identifying security risks in application designs. _(26 Nov 2026)_
